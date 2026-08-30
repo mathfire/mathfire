@@ -30,7 +30,7 @@ Scientific workflows for structured uncertainty, simulation, and ensemble analys
 
 ## Background
 
-PhD, Forest Sciences — Colorado State University  
+MS, PhD, Forest Sciences — Colorado State University  
 BA, Mathematics & Physics — Whitman College
 
 📫 alex.masarie@gmail.com
