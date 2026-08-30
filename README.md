@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @mathfire
-- 👀 I’m interested in MELODIC METAL MUSIC, sustainable development goals, DATA MANAGEMENT/ANALYSIS, math
-- 🌱 I’m currently learning R, C#, humility, GitHub, meditation, Spanish, mixed rock & ice climbing
-- 💞️ I’m looking to collaborate on GitHub, Google Chat, Slack
-- 📫 How to reach me: send an e-mail alex.masarie@gmail.com
+# Alex Masarie, PhD
 
-<!---
-mathfire/mathfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Environmental scientist • Computational modeler • Scientific programmer
+
+I build mathematical and computational tools for complex environmental systems,
+with a particular interest in wildfire, forest structure, spatial data,
+and quantitative decision support.
+
+My work sits at the intersection of:
+
+- 🌲 Forest & wildfire science
+- 💻 Scientific computing
+- 📐 Mathematics & mathematical modeling
+- 🔥 Wildfire decision support
+- 🛰️ LiDAR & spatial analysis
+- 🧬 Topological data analysis
+- 📊 Data analysis & visualization
+- 🎓 Teaching & technical communication
+
+## Selected Research
+
+🌲 **Forest LiDAR + Topological Data Analysis**  
+Computational approaches for representing and comparing forest structure.
+
+🔥 **Wildfire Decision Support**  
+Mathematical models for wildfire suppression allocation and forest management.
+
+🔥 **Wildfire Ensemble Modeling**  
+Scientific workflows for structured uncertainty, simulation, and ensemble analysis.
+
+## Background
+
+PhD, Forest Sciences — Colorado State University  
+BA, Mathematics & Physics — Whitman College
+
+📫 alex.masarie@gmail.com
